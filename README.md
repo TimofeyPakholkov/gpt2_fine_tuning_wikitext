@@ -2,12 +2,9 @@ Technical task:
 
 You have a pre-trained GPT2 model from HF https://huggingface.co/openai-community/gpt2. You need to perform
 fine-tuning on WikiText dataset from HF https://huggingface.co/datasets/wikitext (at least 2 epochs), measure quality
-
-with BLEU metric, collect and build charts describing dynamics of training. Fine-tuning must be performed with Low-
-Rank Adapters (LoRA) method https://arxiv.org/abs/2106.09685. The LoRA is a Parameter-Efficient-Fine-Tuning
-
+with BLEU metric, collect and build charts describing dynamics of training. Fine-tuning must be performed with Low-Rank Adapters
+(LoRA) method https://arxiv.org/abs/2106.09685. The LoRA is a Parameter-Efficient-Fine-Tuning
 (PEFT) approach that freezes pre-trained model and applies additional trainable parameters (weights) that are factorized
-
 with small decomposition rank R. Thus, the number of LoRA trainable parameters is much smaller than the full fine-
 tuning, so the fine-tuning requires much smaller amount of time.
 
