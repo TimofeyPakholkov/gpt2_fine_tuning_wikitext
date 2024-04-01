@@ -1,4 +1,5 @@
 Technical task:
+
 You have a pre-trained GPT2 model from HF https://huggingface.co/openai-community/gpt2. You need to perform
 fine-tuning on WikiText dataset from HF https://huggingface.co/datasets/wikitext (at least 2 epochs), measure quality
 
