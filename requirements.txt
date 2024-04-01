@@ -5,6 +5,3 @@ peft==0.10.0
 itertools
 numpy==1.26.4
 evaluate==0.4.1
-nvidia-cuda-cupti-cu12==12.1.105
-nvidia-cuda-nvrtc-cu12==12.1.105
-nvidia-cuda-runtime-cu12==12.1.105
