@@ -23,7 +23,7 @@ LoRA allows to set considerably bigger batch size(8(LoRA) to 2(full FT)) on 8 GB
 
 ![mem](https://github.com/TimofeyPakholkov/gpt2_fine_tuning_wikitext/assets/63054134/b1301331-22e7-4f52-aa8d-7fc620abfea9)
 
-To runtime comparing equal batch sizes were set.
+To compare the runtime batch sizes were set equally(2).
 
 ![time](https://github.com/TimofeyPakholkov/gpt2_fine_tuning_wikitext/assets/63054134/22003b4b-002d-48a9-a757-628ef21565d8)
 
