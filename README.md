@@ -32,4 +32,4 @@ To runtime comparing equal batch sizes were set.
 
 Loss dynamic charts for both approaches:
 
-![loss](https://github.com/TimofeyPakholkov/gpt2_fine_tuning_wikitext/assets/63054134/cad047c6-a79b-4782-b9e3-39366fd44769)
+![loss2](https://github.com/TimofeyPakholkov/gpt2_fine_tuning_wikitext/assets/63054134/f767d1ca-38cf-476e-ae53-aac1f31d97d4)
