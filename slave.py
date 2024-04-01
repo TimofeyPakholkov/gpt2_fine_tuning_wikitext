@@ -5,7 +5,6 @@ from transformers import (AutoModelForCausalLM, AutoTokenizer,
                           Trainer, TrainingArguments
                          )
 from datasets import load_dataset
-from peft import LoraConfig, get_peft_model
 from itertools import chain
 import torch
 import numpy as np
