@@ -30,3 +30,12 @@ To compare the runtime batch sizes were set equally(2).
 Loss dynamic charts for both approaches:
 
 ![loss2](https://github.com/TimofeyPakholkov/gpt2_fine_tuning_wikitext/assets/63054134/f767d1ca-38cf-476e-ae53-aac1f31d97d4)
+
+////////////////////////////
+
+update
+
+The model was trained on a larger dataset - 'wikitext-103-raw-v1'. Training dynamics:
+![1231](https://github.com/TimofeyPakholkov/gpt2_fine_tuning_wikitext/assets/63054134/1259e84b-f4bd-4d99-b619-b4bd007e8db7)
+![1232](https://github.com/TimofeyPakholkov/gpt2_fine_tuning_wikitext/assets/63054134/f3e6356e-a491-4322-8bb1-b974d55a5a46)
+![1233](https://github.com/TimofeyPakholkov/gpt2_fine_tuning_wikitext/assets/63054134/00a40d4d-6a13-4a79-bd83-54716ad9137f)
